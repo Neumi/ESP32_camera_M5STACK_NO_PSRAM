@@ -3,7 +3,7 @@
 Working Camera Server for M5Stack ESP32 Camera (OV2640) Module Development Board without PS RAM and Arduino IDE.
 
 ## BOARD SETTINGS
-![](board _settings.png)
+![](board_settings.png)
 
 
 ## THIS IS THE MODULE I AM TALKING ABOUT
