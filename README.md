@@ -5,4 +5,4 @@ Working Camera Server for M5Stack ESP32 Camera (OV2640) Module Development Board
 
 ## THIS IS THE MODULE I AM TALKING ABOUT
 ![](ESP32MODULE_OV2640_back.jpg)
-![](ESP32MODULE_OV2640_front.jpg)
+![](ESP32MODULE_OV2640_font.jpg)
